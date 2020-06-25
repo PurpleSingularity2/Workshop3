@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="LogDia" id="1C9779AD-3EBF-3076-F899-501E043C38C3" version="3.5">
+<createdBy>LordF</createdBy>
+<createdTime>2020-06-25 10:33:26 UTC</createdTime>
+<ownerDesignName>LogDia</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1C9779AD-3EBF-3076-F899-501E043C38C3</designId>
+</OSDM_Design>
